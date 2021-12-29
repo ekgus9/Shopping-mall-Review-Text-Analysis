@@ -1,6 +1,6 @@
 # Shopping-mall Review Text Analysis Team Project
 
-네이버 쇼핑몰 리뷰 비교
+네이버 쇼핑몰 리뷰 감성분석
 
 > 1. 연구목적 : 제품 리뷰에 드러난 자질에 따른 opinion 차이 고찰
 > 2. 텍스트 데이터 수집 크롤링 -> Deco-R-Crawler 활용
