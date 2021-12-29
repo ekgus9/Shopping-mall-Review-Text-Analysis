@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/89879599/147646135-9b60f0c6-34d6-4978-870c-77ba0641a005.png)
 
 
-<Deco-R-Crawler>를 활용한 크롤링
+'Deco-R-Crawler'를 활용한 크롤링
 
 
 아이패드 : ‘아이패드 에어 4세대’, ‘아이패드 9세대’, ‘아이패드 미니 6세대’, ‘아이패드 프로 5세대’, ‘아이패드 미니 5세대’, ‘아이패드 8세대’ 
@@ -24,7 +24,7 @@
  ![image](https://user-images.githubusercontent.com/89879599/147645525-8de80eb9-5b97-4c16-998c-f8d9cc71decc.png)
 
  
-수집된 데이터를 utf-8 txt로 변환 후 <전처리 문법 테이블> 적용
+수집된 데이터를 utf-8 txt로 변환 후 '전처리 문법 테이블' 적용
 
  
 >토크나이징
